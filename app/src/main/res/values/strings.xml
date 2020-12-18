@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecyclerViewExample</string>
+
+    <array name="banderas">
+        <item>Todas</item>
+        <item>Alumnos</item>
+        <item>Profesores</item>
+    </array>
+
+</resources>

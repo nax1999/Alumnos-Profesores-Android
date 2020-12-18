@@ -1,0 +1,7 @@
+profesores#codigo1#nombre: Antonio#Apellido: Mendoza#Asignaturas: programacion#Profesores
+profesores#codigo2#nombre: Manuel#Apellido: Perez#Asignatura :BBDD#Profesores
+alumnos#codigo1#nombre: Alumno1#Apellido: ApellidoAlumno1#Asignaturas: programacion,BBDD#Alumnos
+alumnos#codigo2#nombre: Alumno2#Apellido: ApellidoAlumno2#Asignaturas: programacion,BBDD#Alumnos
+alumnos#codigo3#nombre: Alumno3#Apellido: ApellidoAlumno3#Asignaturas: programacion,BBDD#Alumnos
+alumnos#codigo4#nombre: Alumno4#Apellido: ApellidoAlumno4#Asignaturas: BBDD#Alumnos
+alumnos#codigo5#nombre: Alumno5#Apellido: ApellidoAlumno5#Asignaturas: programacion#Alumnos
